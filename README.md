@@ -4,4 +4,20 @@ VoiceGPT is a web application that allows users to ask questions using their voi
 
 It leverages modern web technologies such as HTML, CSS, JavaScript, and ExpressJS to provide a user-friendly interface for voice-based Q&A.
 
+# Features
 
+1. Voice input
+1. Text output
+1. Answers to a wide range of questions
+1. Easy to use
+
+# Installation
+
+To install and run VoiceGPT, follow these steps:
+
+1. Clone the repository:
+   
+   
+git clone https://github.com/Dhruv5242/Voice-GPT.git
+
+ 
